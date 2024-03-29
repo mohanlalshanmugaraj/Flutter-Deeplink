@@ -69,7 +69,7 @@
     },
     {
       "name": "go_router",
-      "rootUri": "file:///Users/mohanlal/.pub-cache/hosted/pub.dev/go_router-13.2.1",
+      "rootUri": "file:///Users/mohanlal/.pub-cache/hosted/pub.dev/go_router-13.2.2",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -170,7 +170,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-03-29T13:01:36.520902Z",
+  "generated": "2024-03-29T13:19:30.432604Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
