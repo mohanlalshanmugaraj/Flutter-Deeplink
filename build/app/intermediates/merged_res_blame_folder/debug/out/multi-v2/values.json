@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mohanlal/Documents/Flutter/deep_linking/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/mohanlal/Documents/Personal git/Flutter-Deeplink/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
