@@ -164,13 +164,13 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "Impiger_DeepLinking",
+      "name": "impiger_deep_linking",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-03-29T13:19:30.432604Z",
+  "generated": "2024-04-03T09:11:40.004056Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
